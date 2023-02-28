@@ -1,0 +1,3 @@
+Required:
+Python 3.x.x
+prettytable package
